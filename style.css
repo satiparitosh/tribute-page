@@ -1,0 +1,59 @@
+body{
+    margin:0;
+    padding:0;
+    font-style:Arial;
+}
+#main{
+    background-color:#eee;
+    margin:2% auto;
+    padding:1%;
+    max-width:1300px;
+    border-radius:5px;
+}
+h1{
+    text-align:center;
+}
+#title p{
+    text-align:center;
+}
+#img-caption{
+    text-align:center;
+}
+#img-div{
+    background-color:#fff;
+}
+#image{
+    margin:0 auto;
+    box-sizing:content-box;
+    margin-bottom:1%;
+    display:block;
+}
+#img-caption{
+    padding-bottom:1%;
+}
+#list{
+    background-color:#eee;
+    margin:2% auto;
+}
+#list h5{
+    text-align:center;
+}
+ul{
+    width:50%;
+    margin:0 auto;
+}
+ul li{
+    margin-bottom:20px;
+}
+#quote{
+    width:50%;
+    margin:0 auto;
+}
+#name{
+    width:50%;
+    margin:0 auto;
+}
+#end{
+    display:block;
+    width:80%;
+}
